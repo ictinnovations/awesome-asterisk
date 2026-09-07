@@ -21,7 +21,6 @@ Every entry was checked against its own repository before being listed. Projects
 - [Fax](#fax)
 - [Endpoints](#endpoints)
 - [Learning](#learning)
-- [Contributing](#contributing)
 - [Disclosure](#disclosure)
 
 ## Official
@@ -108,10 +107,10 @@ Signalling at carrier volume is a different job from running a PBX, and mixing t
 - [PhreakScript](https://github.com/InterLinked1/phreakscript) - Build and feature script that also serves as a deep, opinionated tour of lesser known Asterisk internals.
 - [Asterisk: The Definitive Guide](https://www.asteriskdocs.org) - The community book, freely readable online.
 
-## Contributing
-
-Contributions are welcome. Read the [contribution guidelines](contributing.md) first, and please open one pull request per entry.
-
 ## Disclosure
 
 This list is maintained by [ICT Innovations](https://www.ictinnovations.com), who also build some of the software on it. Entries we maintain are `asterisk-ami-node`, `asterisk-audiosocket`, `asterisk-ai-voice-agent`, `tvbench` and `ICTFax`. They are held to the same bar as everything else and can be challenged in an issue like any other entry.
+
+## Contributing
+
+Contributions are welcome. Read the [contribution guidelines](contributing.md) first, and please open one pull request per entry.
