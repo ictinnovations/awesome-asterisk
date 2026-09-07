@@ -18,7 +18,6 @@ Every entry was checked against its own repository before being listed. Projects
 - [Testing and troubleshooting](#testing-and-troubleshooting)
 - [Security](#security)
 - [Contact centre and dialling](#contact-centre-and-dialling)
-- [Fax](#fax)
 - [Endpoints](#endpoints)
 - [Learning](#learning)
 - [Disclosure](#disclosure)
@@ -93,10 +92,6 @@ Signalling at carrier volume is a different job from running a PBX, and mixing t
 - [VICIdial](https://www.vicidial.org) - Web based inbound and outbound contact centre suite over Asterisk, with predictive dialling. Widely deployed and commercially supported.
 - [GOautodial](https://github.com/goautodial/v4.0) - Contact centre distribution in the same territory, with its own interface and API.
 
-## Fax
-
-- [ICTFax](https://github.com/ictinnovations/ictfax) - Multi-tenant fax server covering T.38 and G.711, email to fax and a REST API.
-
 ## Endpoints
 
 - [Linphone](https://github.com/BelledonneCommunications/linphone-desktop) - SIP client across desktop and mobile with encrypted voice and video, and a library you can embed.
@@ -109,7 +104,7 @@ Signalling at carrier volume is a different job from running a PBX, and mixing t
 
 ## Disclosure
 
-This list is maintained by [ICT Innovations](https://www.ictinnovations.com), who also build some of the software on it. Entries we maintain are `asterisk-ami-node`, `asterisk-audiosocket`, `asterisk-ai-voice-agent`, `tvbench` and `ICTFax`. They are held to the same bar as everything else and can be challenged in an issue like any other entry.
+This list is maintained by [ICT Innovations](https://www.ictinnovations.com), who also build some of the software on it. Entries we maintain are `asterisk-ami-node`, `asterisk-audiosocket`, `asterisk-ai-voice-agent` and `tvbench`. They are held to the same bar as everything else and can be challenged in an issue like any other entry.
 
 ## Contributing
 
