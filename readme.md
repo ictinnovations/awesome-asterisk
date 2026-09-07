@@ -22,6 +22,7 @@ Every entry was checked against its own repository before being listed. Projects
 - [Endpoints](#endpoints)
 - [Learning](#learning)
 - [Contributing](#contributing)
+- [Disclosure](#disclosure)
 
 ## Official
 
