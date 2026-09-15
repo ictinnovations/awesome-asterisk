@@ -91,6 +91,7 @@ Signalling at carrier volume is a different job from running a PBX, and mixing t
 - [sngrep](https://github.com/irontec/sngrep) - Terminal SIP capture with call flow diagrams. The fastest way to see what is happening on a box you are logged into.
 - [HOMER](https://github.com/sipcapture/homer) - SIP capture and correlation across a whole estate, so you can reconstruct one call across every hop.
 - [heplify](https://github.com/sipcapture/heplify) - Lightweight HEP capture agent that feeds HOMER.
+- [VoIPmonitor](https://github.com/voipmonitor/sniffer) - Packet sniffer that records SIP and RTP and scores call quality. The sniffer is GPL-2.0; the web interface usually paired with it is commercial.
 - [asterisklint](https://github.com/ossobv/asterisklint) - Static analysis for Asterisk configuration and dialplan.
 
 ## Security
@@ -113,7 +114,6 @@ Signalling at carrier volume is a different job from running a PBX, and mixing t
 ## Learning
 
 - [PhreakScript](https://github.com/InterLinked1/phreakscript) - Build and feature script that also serves as a deep, opinionated tour of lesser known Asterisk internals.
-- [Asterisk: The Definitive Guide](https://www.asteriskdocs.org) - The community book, freely readable online.
 
 ## Disclosure
 
