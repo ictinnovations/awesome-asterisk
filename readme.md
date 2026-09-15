@@ -10,6 +10,7 @@ Every entry was checked against its own repository before being listed. Projects
 
 - [Official](#official)
 - [Distributions and web interfaces](#distributions-and-web-interfaces)
+- [Containers](#containers)
 - [ARI, AMI and AGI libraries](#ari-ami-and-agi-libraries)
 - [Streaming call audio](#streaming-call-audio)
 - [Voice AI](#voice-ai)
@@ -34,6 +35,14 @@ Every entry was checked against its own repository before being listed. Projects
 - [FreePBX](https://github.com/FreePBX/framework) - The long-running web administration layer over Asterisk, and the usual first stop if you want a working PBX today.
 - [Issabel](https://github.com/IssabelFoundation/issabelPBX) - Community distribution carrying on the all-in-one unified communications shape.
 - [Wazo Platform](https://github.com/wazo-platform/wazo-platform) - Asterisk based platform built API first, for people constructing a service rather than administering a box.
+- [MikoPBX](https://github.com/mikopbx/Core) - Small business PBX built on current Asterisk, with a light footprint and its own web interface.
+
+## Containers
+
+Running Asterisk in a container is the fastest way to get a disposable box for development or testing, and both of these track upstream themselves.
+
+- [Asterisk in Docker](https://github.com/andrius/asterisk) - Small Alpine and Debian images covering every supported Asterisk branch, rebuilt as upstream moves.
+- [docker-asterisk](https://github.com/mlan/docker-asterisk) - Fuller image bundling Asterisk with a dialplan, fail2ban and a mail gateway, for a working PBX rather than a bare daemon.
 
 ## ARI, AMI and AGI libraries
 
@@ -68,6 +77,7 @@ Signalling at carrier volume is a different job from running a PBX, and mixing t
 
 - [Kamailio](https://github.com/kamailio/kamailio) - SIP proxy, registrar and router built for very high signalling throughput.
 - [OpenSIPS](https://github.com/OpenSIPS/opensips) - The other branch of the same lineage, strong on session border control and provider-side routing.
+- [Routr](https://github.com/fonoster/routr) - Newer SIP server built around a declarative configuration and an API, for people who would rather not write routing logic in a scripting language.
 
 ## Media and RTP
 
@@ -86,6 +96,8 @@ Signalling at carrier volume is a different job from running a PBX, and mixing t
 ## Security
 
 - [SIPVicious](https://github.com/EnableSecurity/sipvicious) - The security tool suite for auditing SIP systems. Run it against your own before someone else does.
+- [SIPPTS](https://github.com/Pepelux/sippts) - Actively developed toolkit for scanning, enumerating and testing SIP services, including checks for published VoIP CVEs.
+- [Mr.SIP](https://github.com/meliht/Mr.SIP) - SIP audit and attack toolkit for testing how a deployment holds up against enumeration, spoofing and flooding.
 
 ## Contact centre and dialling
 
@@ -96,6 +108,7 @@ Signalling at carrier volume is a different job from running a PBX, and mixing t
 
 - [Linphone](https://github.com/BelledonneCommunications/linphone-desktop) - SIP client across desktop and mobile with encrypted voice and video, and a library you can embed.
 - [baresip](https://github.com/baresip/baresip) - Modular SIP user agent, useful both as a scriptable endpoint and as a base for custom clients.
+- [Telephone](https://github.com/64characters/Telephone) - Native macOS SIP client, still actively developed, which is rarer on that platform than it should be.
 
 ## Learning
 
