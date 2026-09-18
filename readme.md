@@ -117,10 +117,10 @@ Signalling at carrier volume is a different job from running a PBX, and mixing t
 
 - [PhreakScript](https://github.com/InterLinked1/phreakscript) - Build and feature script that also serves as a deep, opinionated tour of lesser known Asterisk internals.
 
-## Footnotes
-
-This list is maintained by [ICT Innovations](https://www.ictinnovations.com), who also build some of the software on it. Entries we maintain are `asterisk-ami-node`, `asterisk-audiosocket`, `asterisk-ai-voice-agent`, `tvbench` and `pbx-mcp`. They are held to the same bar as everything else and can be challenged in an issue like any other entry.
-
 ## Contributing
 
 Contributions are welcome. Read the [contribution guidelines](contributing.md) first, and please open one pull request per entry.
+
+## Footnotes
+
+This list is maintained by [ICT Innovations](https://www.ictinnovations.com), who also build some of the software on it. Entries we maintain are `asterisk-ami-node`, `asterisk-audiosocket`, `asterisk-ai-voice-agent`, `tvbench` and `pbx-mcp`. They are held to the same bar as everything else and can be challenged in an issue like any other entry.
