@@ -1,6 +1,6 @@
 # Awesome Asterisk [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Open source tools, libraries and resources for building on [Asterisk](https://www.asterisk.org), the telephony toolkit behind a large share of the world's PBXs, contact centres and voice platforms.
+> Telephony toolkit for building PBXs, contact centres and voice applications.
 
 Asterisk gives you call control and a media path. Almost everything else, the interface, the dialler, the monitoring, the security, comes from the ecosystem around it. This list covers that ecosystem, plus the SIP and media components Asterisk is usually deployed alongside.
 
@@ -21,7 +21,6 @@ Every entry was checked against its own repository before being listed. Projects
 - [Contact centre and dialling](#contact-centre-and-dialling)
 - [Endpoints](#endpoints)
 - [Learning](#learning)
-- [Disclosure](#disclosure)
 
 ## Official
 
@@ -118,7 +117,7 @@ Signalling at carrier volume is a different job from running a PBX, and mixing t
 
 - [PhreakScript](https://github.com/InterLinked1/phreakscript) - Build and feature script that also serves as a deep, opinionated tour of lesser known Asterisk internals.
 
-## Disclosure
+## Footnotes
 
 This list is maintained by [ICT Innovations](https://www.ictinnovations.com), who also build some of the software on it. Entries we maintain are `asterisk-ami-node`, `asterisk-audiosocket`, `asterisk-ai-voice-agent`, `tvbench` and `pbx-mcp`. They are held to the same bar as everything else and can be challenged in an issue like any other entry.
 
