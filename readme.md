@@ -93,6 +93,7 @@ Signalling at carrier volume is a different job from running a PBX, and mixing t
 - [heplify](https://github.com/sipcapture/heplify) - Lightweight HEP capture agent that feeds HOMER.
 - [VoIPmonitor](https://github.com/voipmonitor/sniffer) - Packet sniffer that records SIP and RTP and scores call quality. The sniffer is GPL-2.0; the web interface usually paired with it is commercial.
 - [asterisklint](https://github.com/ossobv/asterisklint) - Static analysis for Asterisk configuration and dialplan.
+- [pbx-mcp](https://github.com/ictinnovations/pbx-mcp) - MCP server that lets an AI assistant query a live Asterisk over AMI: channels, SIP registrations, trunk status and dialplan. Read-only by default.
 
 ## Security
 
@@ -117,7 +118,7 @@ Signalling at carrier volume is a different job from running a PBX, and mixing t
 
 ## Disclosure
 
-This list is maintained by [ICT Innovations](https://www.ictinnovations.com), who also build some of the software on it. Entries we maintain are `asterisk-ami-node`, `asterisk-audiosocket`, `asterisk-ai-voice-agent` and `tvbench`. They are held to the same bar as everything else and can be challenged in an issue like any other entry.
+This list is maintained by [ICT Innovations](https://www.ictinnovations.com), who also build some of the software on it. Entries we maintain are `asterisk-ami-node`, `asterisk-audiosocket`, `asterisk-ai-voice-agent`, `tvbench` and `pbx-mcp`. They are held to the same bar as everything else and can be challenged in an issue like any other entry.
 
 ## Contributing
 
