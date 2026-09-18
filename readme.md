@@ -34,6 +34,7 @@ Every entry was checked against its own repository before being listed. Projects
 
 - [FreePBX](https://github.com/FreePBX/framework) - The long-running web administration layer over Asterisk, and the usual first stop if you want a working PBX today.
 - [Issabel](https://github.com/IssabelFoundation/issabelPBX) - Community distribution carrying on the all-in-one unified communications shape.
+- [PearlPBX2](https://github.com/radetsky/PearlPBX2) - Django management interface covering PJSIP endpoints, AEL dialplan, queues, a live operator dashboard and CDR reporting. AGPL-3.0 since v2.7.3.
 - [Wazo Platform](https://github.com/wazo-platform/wazo-platform) - Asterisk based platform built API first, for people constructing a service rather than administering a box.
 - [MikoPBX](https://github.com/mikopbx/Core) - Small business PBX built on current Asterisk, with a light footprint and its own web interface.
 
