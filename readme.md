@@ -68,6 +68,7 @@ Getting live call audio into your own process, which is the starting point for t
 - [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - The port that made Whisper practical on ordinary CPUs, which is what most people run next to a PBX.
 - [Vosk](https://alphacephei.com/vosk/) - Lightweight offline speech recognition with streaming support and small models, well suited to telephony audio.
 - [Piper](https://github.com/OHF-Voice/piper1-gpl) - Fast local neural text to speech, light enough to run per channel.
+- [AVA](https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk) - AI voice agent for Asterisk and FreePBX over AudioSocket, RTP or WebSocket, with a modular pipeline so you can swap the STT, LLM and TTS providers.
 - [asterisk-ai-voice-agent](https://github.com/ictinnovations/asterisk-ai-voice-agent) - Self-hosted voice agent for Asterisk over AudioSocket or chan_websocket, with barge-in handling.
 - [tvbench](https://github.com/ictinnovations/telephony-voice-agent-benchmark) - Measures what a caller actually hears from a voice agent: frame pacing, gaps and barge-in.
 
