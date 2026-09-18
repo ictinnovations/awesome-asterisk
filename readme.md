@@ -2,7 +2,7 @@
 
 > Telephony toolkit for building PBXs, contact centres and voice applications.
 
-Asterisk gives you call control and a media path. Almost everything else, the interface, the dialler, the monitoring, the security, comes from the ecosystem around it. This list covers that ecosystem, plus the SIP and media components Asterisk is usually deployed alongside.
+Asterisk gives you call control and a media path. Almost everything else, the interface, the dialler, the monitoring, the security, comes from somewhere else. This list covers that, plus the SIP and media components Asterisk is usually deployed alongside.
 
 Every entry was checked against its own repository before being listed. Projects that stopped being maintained are removed rather than left in place, because a directory that lists dead software costs people more time than it saves.
 
