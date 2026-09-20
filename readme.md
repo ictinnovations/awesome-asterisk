@@ -116,6 +116,7 @@ Signalling at carrier volume is a different job from running a PBX, and mixing t
 ## Learning
 
 - [PhreakScript](https://github.com/InterLinked1/phreakscript) - Build and feature script that also serves as a deep, opinionated tour of lesser known Asterisk internals.
+- [Awesome RTC](https://github.com/rtckit/awesome-rtc) - The broad real time communications list: WebRTC, STUN and TURN, media servers and SIP libraries across a dozen languages. Wider than this list and shallower on Asterisk, so the two sit side by side rather than overlapping much.
 
 ## Contributing
 
